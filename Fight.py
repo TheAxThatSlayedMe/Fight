@@ -159,17 +159,6 @@ def get_age():
 
 
 def fight():
-    print(
-        'Who would win in ' + get_list_item(contest)
-        + ', a ' + get_age() + get_list_item(opponent)
-        + ' or a ' + get_age() + get_list_item(opponent) + '?'
-    )
-
-
-if __name__ == '__main__':
-
-    run_again = True
-    while run_again:
         fight()
 
         # todo validate user input
