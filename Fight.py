@@ -8,13 +8,14 @@ def fight():
                 'your mom', 'Eminem', 'Snoop Dog', 'Emily Dickinson', 'Sherlock', 'Pink Panther', 
                 'Mr. Magoo', 'Inspector Gadget', 'unladen swallow', 'Edward Snowden', 'drunk lion', 
                 'House M.D.', 'Dr. Mike', 'Elon Musk', 'Russian', 'Alexandria Ocasio-Cortez', 'Jean-Paul Sartre', 
-                'Bertrand Russel', 'Leonhard Euler', 'Isaac Newton', 'Gottfried Leibniz', 'Darwin', 'you', 'Millie Perkins', 
-                'Hermione', 'maniac with an ax', 'Greta Thrunberg', 'Rick Sanchez', 'Captain Picard', 'bees', 
+                'Bertrand Russell', 'Leonhard Euler', 'Isaac Newton', 'Gottfried Leibniz', 'Darwin', 'you', 'Millie Perkins', 
+                'Hermione', 'maniac with an ax', 'Greta Thrunberg', 'Rick Sanchez', 'Captain Picard', 'colony of bees', 
                 'pirate', 'ninja', 'David Tennant', 'great white shark', 'Bach', 'Data', 'Borg', 'Tom Baker', 
                 'Sheldon Cooper', 'R.A. Heinlein', 'Thomas Edison', 'Ada Lovelace', 'Supergirl', 'Yoda', 'Karl Marx', 
                 'Randall Munroe', 'Black Hat', 'Megan', 'Beret Guy', 'Paul Bunyan', 'drunk Paul Bunyan',  
                 'Riverdance performer', 'Tinkerbell', 'Santa Claus', 'Scrooge', 'Batman', 'Superman', 'Dr. Banner', 
-                'Coligula', 'Dr. Banner', 'Epstein']
+                'Coligula', 'Dr. Banner', 'Hal', 'Trump', 'Putin', 'coronavirus', 'violent homeless woman who knows where you live',
+                'velociraptor', 'Hilary Clinton', 'Epstein']
 
     #Must be phrased to fit syntax, "Who would win in ____"
     contest = ['a hotdog-eating contest', 'a magic duel', 'a swimming competition', 'a fight', 'a race', 'mauling tourists', 
@@ -22,14 +23,15 @@ def fight():
             'a crime investigation', 'an election', 'a dance-off', 'a hackathon', 'a dick-measuring contest', 
             'a rap battle', 'the survival of the fittest', 'building the most attractive nest', 'a fight for a mate', 
             'defending their hive', 'performing the fastest open-heart sugery', 'the space race', 'motivating the Left', 
-            "criticizing the other's philosophy", 'the Kentucky Derby', 'a Turing Test', 
+            "criticizing the other's philosophy", 'the Kentucky Derby', 'a Turing Test', 'infecting the most people',
             'The CDM-ICPC International Collegiate Programming Contest', 'getting published first', 'a spelling bee', 
             'a math-off', 'a bug-hunting contest', 'getting the most patents', 'a race to Mars', 
             'an audition for the lead role in The Diary of Anne Frank', 'a hostage negotiation', 'maximum food production', 
             'a battle for your heart', 'a drinking contest', 'a competition to build the best model railroad', 
             'performing the best comedy', 'writing the best computer program', 'using the Force', 'leading a rebellion',
-              'throwing the wildest party', 'a study to measure color recognition', 'an armed standoff', 
-               'bringing joy to the most children', 'a lawsuit', 'not killing himself']
+              'throwing the wildest party', 'a study to measure color recognition', 'an armed standoff',
+               'bringing joy to the most children', 'a lawsuit', 'asserting dominance in bed', 'pollinating the most flowers', 
+               'a formal debate', 'finding the Higgs boson', 'finding the clitoris', 'not killing himself']
 
     age = random.randint(1,101) 
 
