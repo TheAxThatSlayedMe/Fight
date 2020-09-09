@@ -11,7 +11,10 @@ def fight():
                 'Bertrand Russel', 'Leonhard Euler', 'Isaac Newton', 'Gottfried Leibniz', 'Darwin', 'you', 'Millie Perkins', 
                 'Hermione', 'maniac with an ax', 'Greta Thrunberg', 'Rick Sanchez', 'Captain Picard', 'bees', 
                 'pirate', 'ninja', 'David Tennant', 'great white shark', 'Bach', 'Data', 'Borg', 'Tom Baker', 
-                'Sheldon Cooper', 'R.A. Heinlein', 'Thomas Edison', 'Ada Lovelace', 'Supergirl', 'Yoda', 'Karl Marx', 'Randall Munroe', 'Black Hat', 'Megan', 'Beret Guy']
+                'Sheldon Cooper', 'R.A. Heinlein', 'Thomas Edison', 'Ada Lovelace', 'Supergirl', 'Yoda', 'Karl Marx', 
+                'Randall Munroe', 'Black Hat', 'Megan', 'Beret Guy', 'Paul Bunyan', 'drunk Paul Bunyan',  
+                'Riverdance performer', 'Tinkerbell', 'Santa Claus', 'Scrooge', 'Batman', 'Superman', 'Dr. Banner', 
+                'Coligula', 'Dr. Banner', 'Epstein']
 
     #Must be phrased to fit syntax, "Who would win in ____"
     contest = ['a hotdog-eating contest', 'a magic duel', 'a swimming competition', 'a fight', 'a race', 'mauling tourists', 
@@ -24,11 +27,13 @@ def fight():
             'a math-off', 'a bug-hunting contest', 'getting the most patents', 'a race to Mars', 
             'an audition for the lead role in The Diary of Anne Frank', 'a hostage negotiation', 'maximum food production', 
             'a battle for your heart', 'a drinking contest', 'a competition to build the best model railroad', 
-            'performing the best comedy', 'writing the best computer program', 'using the Force', 'leading a rebellion']
+            'performing the best comedy', 'writing the best computer program', 'using the Force', 'leading a rebellion',
+              'throwing the wildest party', 'a study to measure color recognition', 'an armed standoff', 
+               'bringing joy to the most children', 'a lawsuit', 'not killing himself']
 
     age = random.randint(1,101) 
 
-    print('Who would win in ' + contest[random.randint(0, len(contest) -1)] + ', a ' + str(random.randint(1,101)) + '-year-old ' + opponent[random.randint(0, len(opponent) -1)] + ' or a '  + str(age) + '-year-old ' + opponent[random.randint(0, len(opponent) -1)] + '?')
+    print('Who would win in ' + contest[random.randint(0, len(contest) -1)] + ', a ' + str(age) + '-year-old ' + opponent[random.randint(0, len(opponent) -1)] + ' or a '  + str(age) + '-year-old ' + opponent[random.randint(0, len(opponent) -1)] + '?')
 
 #Invites you to run it again
     askToRun = input("Run again? y/n: ")
