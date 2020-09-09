@@ -39,7 +39,7 @@ def fight():
                'educating the most people about health', "striking the most terror into people's hearts", 'building the best Lego scultpure', 
                'a heist', 'freeing the form of a sculpture from inside a block of marble', 'converting the most followers', 
                'not killing himself', 'irradiating the most people']
-]
+
 
     age = random.randint(1,101) 
 
