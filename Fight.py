@@ -10,7 +10,7 @@ opponent = ['Martha Stewart', 'bear', 'swarm of murder hornets', 'Magnus Carlsen
             'Bertrand Russel', 'Leonhard Euler', 'Isaac Newton', 'Gottfried Leibniz', 'Darwin', 'you', 'Millie Perkins', 
             'Hermione', 'maniac with an ax', 'Greta Thrunberg', 'Rick Sanchez', 'Captain Picard', 'bees', 
             'pirate', 'ninja', 'David Tennant', 'great white shark', 'Bach', 'Data', 'Borg', 'Tom Baker', 
-            'Sheldon Cooper', 'R.A. Heinlein', 'Thomas Edison', 'Ada Lovelace', 'Supergirl', 'Yoda']
+            'Sheldon Cooper', 'R.A. Heinlein', 'Thomas Edison', 'Ada Lovelace', 'Supergirl', 'Yoda', 'Karl Marx', 'Randall Munroe', 'Black Hat', 'Megan', 'Beret Guy']
 
 #Must be phrased to fit syntax, "Who would win in ____"
 contest = ['a hotdog-eating contest', 'a magic duel', 'a swimming competition', 'a fight', 'a race', 'mauling tourists', 
@@ -23,7 +23,7 @@ contest = ['a hotdog-eating contest', 'a magic duel', 'a swimming competition', 
            'a math-off', 'a bug-hunting contest', 'getting the most patents', 'a race to Mars', 
            'an audition for the lead role in The Diary of Ann Frank', 'a hostage negotiation', 'maximum food production', 
            'a battle for your heart', 'a drinking contest', 'a competition to build the best model railroad', 
-           'performing the best comedy', 'writing the best computer program', 'using The Force']
+           'performing the best comedy', 'writing the best computer program', 'using the Force', 'leading a rebellion']
 
 age = random.randint(1,101) 
 
