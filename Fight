@@ -1,7 +1,9 @@
 import random
 
+#Must be phrased to fit syntax, "a 40-year old ____"
 opponent = ['Martha Stewart', 'bear', 'swarm of murder hornets', 'Magnus Carlsen', 'Nikola Tesla', 'Serena Williams', 'JFK', 'Secretariat', 'Goku', 'Vegeta', 'Krillan', 'Twilight Sparkle', 'Ken Jennings', 'Ronda Rousey', 'Jigglypuff', 'The Rock', 'Muhammed Ali', 'your mom', 'Sherlock', 'Pink Panther', 'Mr. Magoo', 'Inspector Gadget', 'Edward Snowden', 'drunk lion', 'House M.D.', 'Dr. Mike', 'Elon Musk', 'Russian', 'Alexandria Ocasio-Cortez', 'Jean-Paul Sartre', 'Bertrand Russel', 'Leonhard Euler', 'Isaac Newton', 'Gottfried Leibniz', 'Darwin', 'you', 'Millie Perkins', 'Hermione', 'maniac with an ax', 'Greta Thrunberg', 'Rick Sanchez', 'Captain Picard', 'bees', 'pirate', 'ninja', 'David Tennant', 'great white shark', 'Bach', 'Data', 'Borg', 'Tom Baker', 'Sheldon Cooper', 'R.A. Heinlein', 'Thomas Edison', 'Ada Lovelace', 'Supergirl', 'Yoda']
 
+#Must be phrased to fit syntax, "Who would win in ____"
 contest = ['a hotdog-eating contest', 'a magic duel', 'a swimming competition', 'a fight', 'mauling tourists', 'a tennis match', 'a cooking competition', 'a chess match', 'a contest to see who is the nastiest slut', 'a crime investigation', 'an election', 'a dance-off', 'a hackathon', 'the survival of the fittest', 'a fight for a mate', 'defending their hive', 'performing the fastest open-heart sugery', 'the space race', 'motivating the Left', "criticizing the other's philosophy", 'getting published first', 'a spelling bee', 'a math-off', 'a bug-hunting contest', 'getting the most patents', 'a race to Mars', 'an audition for the lead role in The Diary of Ann Frank', 'a hostage negotiation', 'maximum food production', 'a battle for your heart', 'a drinking contest', 'a competition to build the best model railroad', 'performing the best comedy', 'writing the best computer program', 'using The Force']
 
 age = random.randint(1,101) 
