@@ -15,7 +15,11 @@ def fight():
                 'Randall Munroe', 'Black Hat', 'Megan', 'Beret Guy', 'Paul Bunyan', 'drunk Paul Bunyan',  
                 'Riverdance performer', 'Tinkerbell', 'Santa Claus', 'Scrooge', 'Batman', 'Superman', 'Dr. Banner', 
                 'Coligula', 'Dr. Banner', 'Hal', 'Trump', 'Putin', 'coronavirus', 'violent homeless woman who knows where you live',
-                'velociraptor', 'Hilary Clinton', 'Epstein']
+                'velociraptor', 'Hilary Clinton', 'wheel of cheese', 'Hercules', 'pregnant rabbit', 'David Lynch', 'Ursula', 
+                'Nightmare Moon', 'zombie', 'Darth Vader', 'Pennywise', 'honey badger', 'Andy Warhol', 'Michaelangelo', 
+                'Thomas Kinkaid, Painter of Light', 'cat', 'Lockpickinglaywer', 'Deep Blue', 'Terry Pratchett', '11th Doctor', 
+                '10th Doctor', '12th Doctor', '13th Doctor', 'spaceship traveling at  0.9% the speed of light', 
+                'Jeffrey Epstein', 'piece of graphite from the Chernobyl disaster' ]
 
     #Must be phrased to fit syntax, "Who would win in ____"
     contest = ['a hotdog-eating contest', 'a magic duel', 'a swimming competition', 'a fight', 'a race', 'mauling tourists', 
@@ -31,7 +35,11 @@ def fight():
             'performing the best comedy', 'writing the best computer program', 'using the Force', 'leading a rebellion',
               'throwing the wildest party', 'a study to measure color recognition', 'an armed standoff',
                'bringing joy to the most children', 'a lawsuit', 'asserting dominance in bed', 'pollinating the most flowers', 
-               'a formal debate', 'finding the Higgs boson', 'finding the clitoris', 'not killing himself']
+               'a formal debate', 'finding the Higgs boson', 'finding the clitoris', 'a beauty pageant', 'a cosplay contest',
+               'educating the most people about health', "striking the most terror into people's hearts", 'building the best Lego scultpure', 
+               'a heist', 'freeing the form of a sculpture from inside a block of marble', 'converting the most followers', 
+               'not killing himself', 'irradiating the most people']
+]
 
     age = random.randint(1,101) 
 
