@@ -82,7 +82,7 @@ opponent = [
     'Hal',
     'Trump',
     'Putin',
-    'coronavirus',
+    'coronavirus pandemic',
     'violent homeless woman who knows where you live',
     'velociraptor',
     'Hilary Clinton',
@@ -122,11 +122,29 @@ opponent = [
     'Linus Torvalds',
     'Bill Gates',
     'sensitive but ravenous yeti',
-    'spaceship traveling at 0.9% the speed of light',
-    'piece of graphite from Chernobyl'
-    
+    'spaceship that has been accelerating at the rate of 0.2% the speed of light per year',
+    'spaceship that has been accelerating at the rate of 0.3% the speed of light per year',
+    'piece of graphite from Chernobyl',
+    'River Song',
+    'River Tam',
+    'Captain Mal without any clothes on',
+    'Willy Wonka',
+    'Pennywise',
+    'inventor of Hot Pockets',
+    'Spinal Tap',
+    'Mrs. Doubtfire',
+    'Albert Camus',
+    "Frankenstein's Monster",   
+    'Ludwig Wittgenstein',
+    'Ludwig von Beethoven',
+    'Mozart',
+    'Seabiscuit',
+    'Bumblecrumpet Cummerbund',
+    'Jeff Goldblum',
+    'Chelsea Manning',
+    'Hitler',
+    'Bill Cosby'   
 ]
-
 
 # Must be phrased to fit syntax, "Who would win in ____"
 contest = [
@@ -135,7 +153,7 @@ contest = [
     'a swimming competition',
     'a fight',
     'a race',
-    'mauling tourists',
+    'mauling the most tourists',
     'a tennis match',
     'a cooking competition',
     'a chess match',
@@ -202,18 +220,29 @@ contest = [
     'destroying the world',
     'freeing the form of a sculpture from inside a block of marble',
     'converting the most followers',
-    'irradiating the most people'
-    
+    'irradiating the most people',
+    "obtaining the King's favor",
+    'escaping a labyrinth',
+    'succumbing to their own hubris',
+    'a high-speed game of chicken',
+    'framing each other for murder',
+    'a talent show',
+    'making their opponent cry',
+    'making you cry inconsolably',
+    "next year's round for the Nobel Prize",
+    'the role of Best Supporting Actor',
+    'sucking the most dicks',
+    'killing the most people',
+    'getting the most subscribers',
+    'getting cast on a popular BBC show',
+    'arguing semantics'     
 ]
-
 
 def get_list_item(item_list):
     return item_list[random.randint(0, len(item_list) - 1)]
 
-
 def get_age():
     return str(random.randint(1, 101)) + '-year-old '
-
 
 def fight():
         print(
