@@ -86,7 +86,33 @@ opponent = [
     'violent homeless woman who knows where you live',
     'velociraptor',
     'Hilary Clinton',
-    'Epstein'
+    'Jeffrey Epstein',
+    'wheel of cheese',
+    'Hercules',
+    'pregnant rabbit',
+    'David Lynch',
+    'Ursula',
+    'Nightmare Moon',
+    'Cruella deVille',
+    'zombie',
+    'Darth Vader',
+    'honey badger',
+    'Andy Warhol',
+    'Michaelangelo',
+    'Thomas Kinkaid, Painter of Light',
+    'cat',
+    'Charizard',
+    'Lockpickinglawyer',
+    'Richard Feynman',
+    'Deep Blue',
+    'Terry Pratchett',
+    "10th Doctor",
+    "11th Doctor",
+    "12th Doctor",
+    "13th Doctor",
+    'spaceship traveling at 0.9% the speed of light',
+    'piece of graphite from Chernobyl'
+    
 ]
 
 
@@ -146,7 +172,19 @@ contest = [
     'a formal debate',
     'finding the Higgs boson',
     'finding the clitoris',
-    'not killing himself'
+    'not killing himself',
+    'getting into a competetive gallery space',
+    'educating the most people about health',
+    'MarioKart',
+    "striking the most terror into people's hearts",
+    'a locksport tournament',
+    'Penn & Tellers "Fool Us"',
+    'building the best Lego sculpture',
+    'a heist',
+    'freeing the form of a sculpture from inside a block of marble',
+    'converting the most followers',
+    'irradiating the most people'
+    
 ]
 
 
