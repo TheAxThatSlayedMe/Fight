@@ -174,7 +174,6 @@ if __name__ == '__main__':
 
         # todo validate user input
         ask_to_run = input("Run again? y/n: ")
-        print(ask_to_run)
         if ask_to_run != "y" and ask_to_run != "Y":
             print("Goodbye.")
             run_again = False
