@@ -37,7 +37,6 @@ if __name__ == '__main__':
     # Must be phrased to fit syntax, "Who would win in ____"
     contests = open('./contests.txt', 'r').read().splitlines()
 
-    # currying
     fighters = random_fighters(fighters)
     contests = random_contests(contests)
     ages = random_ages()
